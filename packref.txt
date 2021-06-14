@@ -1,0 +1,9 @@
+Flask 
+python-dotenv  : https://pypi.org/project/python-dotenv/
+flask-marshmallow : https://pypi.org/project/flask-marshmallow/
+Flask-SQLAlchemy : https://pypi.org/project/Flask-SQLAlchemy/
+Flask-WTF: https://pypi.org/project/Flask-WTF/
+flask-login:
+flask-cors: pipenv shell flask-cors
+
+pipenv install Flask, Flask-SQLAlchemy, flask-marshmallow, python-dotenv
